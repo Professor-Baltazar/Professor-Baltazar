@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Professor-Baltazar
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Google?
+- 💞️ I’m looking to collaborate on Google(maybe?)
 - 📫 How to reach me: @Ba1tazar telegram.
 
 <!---
